@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "username": "admin",
+      "displayName": "مدیر SSB",
+      "passwordHash": "$2a$10$DOZFirSY.oLjTORBvvd51.p/C7GPtUyTtvQXxJ.ULtPUiexLTiyqW",
+      "role": "admin",
+      "bio": "",
+      "avatar": "avatar-1792129372146-images.jpg"
+    }
+  ],
+  "messages": [
+    {
+      "id": "mvajkl75j26",
+      "roomId": "general",
+      "userId": "admin-1",
+      "text": "",
+      "file": "1792129397584-voice-message.webm",
+      "kind": "audio",
+      "originalName": "voice-message.webm",
+      "createdAt": "2026-10-16T05:43:17.585Z"
+    },
+    {
+      "id": "mvajy9vi1r4",
+      "roomId": "general",
+      "userId": "admin-1",
+      "text": "سلام",
+      "file": null,
+      "kind": "file",
+      "createdAt": "2026-10-16T05:53:56.094Z"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "general",
+      "name": "عمومی",
+      "type": "channel",
+      "owner": "system",
+      "members": []
+    }
+  ]
+}
